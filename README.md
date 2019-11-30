@@ -6,7 +6,7 @@ This was a quick tool i made to download images (memes) from [memedroid.com](htt
 
 I made this program in early 2017 and it does **NOT** work anymore.  
 I got the inspiration for this by browsing a forum and seeing that somebody was selling a meme scraper,
-I wanted it but wasn't going to pay for it so i made my own! 
+I wanted it but wasn't going to pay for it so i made my own!  
 This was my second project with Regex so i was a little more comfortable with it.
 
 ### Options/features
