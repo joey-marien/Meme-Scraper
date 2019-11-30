@@ -15,4 +15,4 @@ This was my second project with Regex so i was a little more comfortable with it
 
 ### Video
 
-![Meme scraper V4.20](http://img.youtube.com/vi/qbEP49tkRQU/0.jpg)](http://www.youtube.com/watch?v=qbEP49tkRQU)
+[![Meme scraper V4.20](http://img.youtube.com/vi/qbEP49tkRQU/0.jpg)](http://www.youtube.com/watch?v=qbEP49tkRQU)
